@@ -22,10 +22,11 @@ George Orwell *1984*
 
 **网站:[https://forget.eu.org](https://forget.eu.org)**
 
-## 文章备份工具
+## 类似项目
 
-[https://archives.duty-machine.now.sh/](https://archives.duty-machine.now.sh/)
+Duty-manchine [https://github.com/duty-machine/](https://github.com/duty-machine/)  [文章备份工具](https://archives.duty-machine.now.sh/)
+China Timeline [https://github.com/chinatimeline](https://github.com/chinatimeline)
 
 ## 联络
 
-lestweforget@tutu.io
+电邮： lestweforget@tutu.io

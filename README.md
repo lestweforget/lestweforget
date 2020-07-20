@@ -24,8 +24,8 @@ George Orwell *1984*
 
 ## 类似项目
 
-Duty-manchine [https://github.com/duty-machine/](https://github.com/duty-machine/)  [文章备份工具](https://archives.duty-machine.now.sh/)
-China Timeline [https://github.com/chinatimeline](https://github.com/chinatimeline)
+- Duty-manchine [https://github.com/duty-machine/](https://github.com/duty-machine/)  ([文章备份工具](https://archives.duty-machine.now.sh/))
+- China Timeline [https://github.com/chinatimeline](https://github.com/chinatimeline)
 
 ## 联络
 

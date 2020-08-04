@@ -4,6 +4,14 @@
 
 George Orwell *1984*
 
+## 请关注端点星案
+
+![image](https://github.com/terminus2049case/terminus2049case/blob/master/images/homepage-image.png)
+
+2020年4月19日,端点星志愿者陈玫、蔡伟因为备份文章被北京公安抓捕。
+
+更多信息，请关注 [端点星案关注组](https://terminus2049.xyz/)：[https://terminus2049.xyz/](https://terminus2049.xyz/)
+
 ## Lestweforget 为什么
 
 这是一个信息快速更迭的时代，今天的热点，很快会成为明日黄花因而无人问津。而更加不幸的是，在中共极权之下生活久了，更容易习得 `遗忘` 这样的“技能”。于是，当你/我每次在新闻上看到一个不幸的事件时，一时的激愤之后，就会忘记了。

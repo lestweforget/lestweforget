@@ -37,4 +37,5 @@ George Orwell *1984*
 
 ## 联络
 
-电邮： lestweforget@tutu.io
+Email： lestweforget@tutu.io
+Twitter: @[LestWeForgetCHN](https://twitter.com/LestWeForgetCHN)

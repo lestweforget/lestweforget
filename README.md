@@ -6,11 +6,9 @@ George Orwell *1984*
 
 ## 请关注端点星案
 
-![image](https://github.com/terminus2049case/terminus2049case/blob/master/images/homepage-image.png)
 
-2020年4月19日,端点星志愿者陈玫、蔡伟因为备份文章被北京公安抓捕。
+2020年4月19日,端点星志愿者陈玫、蔡伟已出狱。
 
-更多信息，请关注 [端点星案关注组](https://terminus2049.xyz/)：[https://terminus2049.xyz/](https://terminus2049.xyz/)
 
 ## Lestweforget 为什么
 

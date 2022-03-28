@@ -30,5 +30,5 @@ George Orwell *1984*
 
 ## 联络
 
-- Email： lestweforget@tutu.io
+- Email： lestforget@pm.me
 
